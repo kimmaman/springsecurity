@@ -8,6 +8,6 @@
 </head>
 <body>
 	guys
-	what's up!	
+	what's up
 </body>
 </html>
